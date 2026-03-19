@@ -1,4 +1,4 @@
-# Coin Watch Lounge — Next.js 15
+# Coin Watch Lounge —- Next.js 15
 
 Real-time crypto dashboard + BIP39 wallet checker, migrated from Vite + React SPA to **Next.js 15 App Router** with full SSR/SSG support.
 
